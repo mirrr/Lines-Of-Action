@@ -1,0 +1,19 @@
+# Running the MachinePlayer (white) against a HumanPlayer (black) a bunch of times
+# Checks to see if machine reverts moves to preserve number of and/or size of groups
+#*java -ea loa.Main
+manual black
+auto white
+c8-c6
+dump
+c6-c3
+dump
+c3-f3
+dump
+b1-b4
+dump
+d1-d3
+dump
+d8-d6
+dump
+f8-f4
+dump

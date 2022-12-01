@@ -1,0 +1,47 @@
+Lines of Action.  Version 2.0.
+Type ? for help.
+b> b> b> b> ===
+    - b b b b b b - 
+    w - - - - - - w 
+    w - - - - - - w 
+    w - - - - - - w 
+    w - - - - - - w 
+    w - - - - - - w 
+    w - - - - - - w 
+    - b b b b b b - 
+Next move: black
+===
+b> w> ===
+    - b b b b b b - 
+    w - - - - - - w 
+    w - - - - - - w 
+    w - - - - - - w 
+    w - - - - - - w 
+    w - - b - - - w 
+    w - - - - - - w 
+    - - b b b b b - 
+Next move: white
+===
+w> b> ===
+    - b b b b b b - 
+    w - - - - - - w 
+    w - - - - - - w 
+    w - - - - - - w 
+    w - - - - - - w 
+    - - - w - - - w 
+    w - - - - - - w 
+    - - b b b b b - 
+Next move: black
+===
+b> w> ===
+    - b b b b b b - 
+    w - - - - - - w 
+    w - - - - - - w 
+    w - - - - - - w 
+    w - - - - - - w 
+    - - - w - - - w 
+    w - - - - - - w 
+    b - b b b - b - 
+Next move: white
+===
+w> 
